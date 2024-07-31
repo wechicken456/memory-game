@@ -1,0 +1,16 @@
+@import 'utils';
+
+.audioFooter {
+    @include flexCenter(row, center, space-between);
+    padding: 0 1.5rem 1rem 1.5rem;
+    position: fixed;
+    bottom: 5px;
+}
+
+.audio-icon {
+    height: 3.5rem;
+    width: 3.5rem;
+    @include flexCenter(row, center, center);
+    border-radius: 50%;
+    background-color: goldenrod;
+}
