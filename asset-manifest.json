@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.89248203.css",
+    "main.js": "/memory-game/static/js/main.1a05b80b.js",
+    "static/media/music.mp3": "/memory-game/static/media/music.fb963219fb6a69d1e325.mp3",
+    "static/media/rift.jpg": "/memory-game/static/media/rift.667d3eb041aaf77c6215.jpg",
+    "static/media/win.png": "/memory-game/static/media/win.c6124928cc2205ff57a7.png",
+    "static/media/cardBack.png": "/memory-game/static/media/cardBack.eaee8d2da1f47ca1bd5a.png",
+    "static/media/cardFront.png": "/memory-game/static/media/cardFront.26c8d7a50766bf72faa8.png",
+    "static/media/logo.png": "/memory-game/static/media/logo.5fd5710c3e80c2a75fcb.png",
+    "static/media/Blitzcrank.jpg": "/memory-game/static/media/Blitzcrank.65b0b2c5aae4aad02f7b.jpg",
+    "static/media/Lux.jpg": "/memory-game/static/media/Lux.fb83f2008526395ba401.jpg",
+    "static/media/Vi.jpg": "/memory-game/static/media/Vi.56facff8becbbd9a5e84.jpg",
+    "static/media/Yasuo.jpg": "/memory-game/static/media/Yasuo.5f302cb160e53ba00b8b.jpg",
+    "static/media/Garen.jpg": "/memory-game/static/media/Garen.4ceffe804fa29ac4e310.jpg",
+    "static/media/Gwen.jpg": "/memory-game/static/media/Gwen.ff73022d346652092ddf.jpg",
+    "static/media/Renekton.jpg": "/memory-game/static/media/Renekton.7dea5025392f461ac9c7.jpg",
+    "static/media/Irelia.jpg": "/memory-game/static/media/Irelia.2e1e9e04c52cb7cdd427.jpg",
+    "static/media/Fizz.jpg": "/memory-game/static/media/Fizz.8180d25eb7c390ef8509.jpg",
+    "static/media/Caitlyn.jpg": "/memory-game/static/media/Caitlyn.94b59673cb9bab309859.jpg",
+    "static/media/Chogath.jpg": "/memory-game/static/media/Chogath.697966105344c251cd5d.jpg",
+    "static/media/Zed.jpg": "/memory-game/static/media/Zed.037b263651e11f31c43d.jpg",
+    "static/media/Viktor.jpg": "/memory-game/static/media/Viktor.a797369e7c1c06a017ba.jpg",
+    "static/media/Jinx.jpg": "/memory-game/static/media/Jinx.8d4ff2200f12f94ff6c9.jpg",
+    "static/media/Darius.jpg": "/memory-game/static/media/Darius.a59be8aa97ea1e6c34b6.jpg",
+    "static/media/Pantheon.jpg": "/memory-game/static/media/Pantheon.f88bcc523950ff9d63d0.jpg",
+    "static/media/Sion.jpg": "/memory-game/static/media/Sion.1c670ee902611885eec9.jpg",
+    "static/media/Kindred.jpg": "/memory-game/static/media/Kindred.137e9a50bc1bf76ebd40.jpg",
+    "static/media/Aatrox.jpg": "/memory-game/static/media/Aatrox.16438dc6da8791067d2d.jpg",
+    "static/media/Jax.jpg": "/memory-game/static/media/Jax.eb46ee1e6423f410cfbc.jpg",
+    "static/media/Karthus.jpg": "/memory-game/static/media/Karthus.1342962803b528a41ac5.jpg",
+    "static/media/SoundOn.svg": "/memory-game/static/media/SoundOn.4ee7868ff76f6fc0d229018a68b3549e.svg",
+    "static/media/SoundOff.svg": "/memory-game/static/media/SoundOff.02c84e4eaff621a9c8f1d622df16eadf.svg",
+    "index.html": "/memory-game/index.html",
+    "main.89248203.css.map": "/memory-game/static/css/main.89248203.css.map",
+    "main.1a05b80b.js.map": "/memory-game/static/js/main.1a05b80b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89248203.css",
+    "static/js/main.1a05b80b.js"
+  ]
+}
